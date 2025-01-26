@@ -1,7 +1,8 @@
-Hello. This repository holds an operating systems project from the fall of 2023. I've copy/pasted
-the readme which I used for the original report below. The program ultimately does not run as
-intended, but adequately displayed understanding of CPU task scheduling and various methods
-where new processes are chosen. In this case, it is a hybrid of Round Robin and Priority First.
+# CPU Round Robin-Priority First Scheduling
+
+Program which simulates CPU task scheduling with a priority first-Round Robin (RR) algorithm.
+
+----
 
 The attached program is intended to simulate Priority First Round Robin CPU scheduling. The instructions 
 to run and its explained implementation are as follows: The simulation will use “program.txt” for programs. 
